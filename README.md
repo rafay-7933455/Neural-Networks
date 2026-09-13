@@ -1,4 +1,4 @@
-# Neural Networks Assignment 1
+# Neural Networks
 
 ## Overview
 
@@ -20,8 +20,7 @@ The notebook covers:
 .
 ├── a1_ready_to_submit.ipynb
 ├── README.md
-└── archive/
-    └── fashion-mnist_train.csv
+
 ```
 
 > Keep the dataset path consistent with the notebook, or update the loading cell if your local folder structure is different.
@@ -56,7 +55,7 @@ cd Neural-Networks
 2. Make sure the dataset is available at:
 
 ```text
-archive/fashion-mnist_train.csv
+https://www.kaggle.com/datasets/zalando-research/fashionmnist (fashion-mnist_train.csv)
 ```
 
 3. Start Jupyter:
