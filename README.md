@@ -1,4 +1,4 @@
-# Neural Networks Assignment 1
+# Neural Networks
 
 ## Overview
 
