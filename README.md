@@ -49,8 +49,8 @@ pip install numpy pandas matplotlib scikit-learn torch jupyter
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repository>.git
-cd <your-repository>
+git clone https://github.com/rafay-7933455/Neural-Networks.git
+cd Neural-Networks
 ```
 
 2. Make sure the dataset is available at:
@@ -68,7 +68,7 @@ jupyter notebook
 4. Open:
 
 ```text
-a1_ready_to_submit.ipynb
+a1.ipynb
 ```
 
 5. Run all cells from top to bottom.
